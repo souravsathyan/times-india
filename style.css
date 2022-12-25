@@ -1,0 +1,22 @@
+
+img{
+    display: block;
+}
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  .card{
+    width: 28rem;
+    
+  }
+  .card-body{
+    margin: auto;
+    border: none;
+  }
+  .shop-button-last{
+    margin: auto;
+  }
+  
+  
+ 
